@@ -1,7 +1,3 @@
-#import hashlib
-
-#print (hashlib.algorithms_guaranteed)
-
 import hashlib
 
 message = "Deepanshu Jain".encode()
